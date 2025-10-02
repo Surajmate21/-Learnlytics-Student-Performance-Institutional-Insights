@@ -101,15 +101,25 @@ This analysis, based on a dataset of 1,000 student exam records, provides initia
 
 ---
 
-## 📫 Connect With Us
-- ✉️ Email: **smate4986@gmail.com**  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-mate12/) **Suraj_Mate**
+<p align="center">
+  🙏 <b>Thank You for Visiting My Profile!</b> 🙏
+</p>
 
+<p align="center">
+  💡 I love building projects, exploring data, and learning new technologies!  
+</p>
 
----
+<p align="center">
+  🔗 Let's Connect:  
+  <a href="https://www.linkedin.com/in/suraj-mate12/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Surajmate21">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-## 🙏 Thank You
-Thank you for visiting the repository!  
-We are passionate about **Data Analysis, Machine Learning, Deep Learning, and Healthcare Analytics**.  
-Feel free to explore, connect, and collaborate!
+<p align="center">
+  🚀 <b>Keep Learning. Keep Growing. Keep Exploring!</b> 🚀
+</p>
 
